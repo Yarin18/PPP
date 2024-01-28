@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:layout_margin="12dp"
+        android:id="@+id/edit_text_inches"
+        android:layout_width="wrap_content"
+        android:hint="inches"
+        android:inputType="number"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_margin="12dp"
+        android:id="@+id/button_calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate"/>
+
+    <TextView
+        android:layout_margin="12dp"
+        android:id="@+id/textview_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"></TextView>
+
+
+
+</LinearLayout>

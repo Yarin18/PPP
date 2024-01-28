@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         findViews();
-
+        setupButtonClickListener();
 
     }
 
@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
         this.inches = findViewById(R.id.edit_text_inches);
 
         this.calculate = findViewById(R.id.button_calculate);
+
+
     }
 
     private void setupButtonClickListener() {
