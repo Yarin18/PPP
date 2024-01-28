@@ -1,4 +1,4 @@
-package com.yarin.challengesection5;
+package com.yarin.section5challenge;
 
 import android.os.Bundle;
 import android.widget.Button;
