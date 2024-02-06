@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecordKeeper</string>
+    <string name="biking">Biking</string>
+    <string name="running">Running</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarketingApp</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_number">Contact Number</string>
+    <string name="hint_contact_display_name">Display Name</string>
+    <string name="include_junior">Include \'Junior\'</string>
+    <string name="immediate_start">Immediate Start</string>
+    <string name="available_from_date">Available from date</string>
+    <string name="preview_message">Preview Message</string>
+    <string name="send_message">Send Message</string>
+
+
+</resources>
